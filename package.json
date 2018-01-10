@@ -1,0 +1,20 @@
+{
+  "name": "testDreamkas",
+  "author": "vasily",
+  "version": "0.0.1",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.8",
+    "extract-text-webpack-plugin": "latest",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
