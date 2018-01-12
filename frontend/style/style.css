@@ -1,0 +1,12 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.select-field {
+    width: 10em;
+}
+
+#app {
+    padding: 1em;
+}
